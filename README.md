@@ -1,5 +1,5 @@
 
-# 🚀 Kunal Mittal
+# 👾 Kunal Mittal
 
 **`Developer (C++ & Full-Stack)`**
 
